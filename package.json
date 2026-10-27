@@ -2,7 +2,8 @@
   "name": "planting_schedule",
   "version": "1.0.0",
   "description": "a gardening calendar",
-  "main": "index.mjs",
+  "main": "app.mjs",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

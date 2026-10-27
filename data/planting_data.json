@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "plant": "Artichokes",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": 1,
+      "plant": "Asparagus",
+      "start_indoors": [],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 1, "end": 3 }]
+    },
+    {
+      "id": 2,
+      "plant": "Beans",
+      "start_indoors": [],
+      "direct_sow": [{ "start": 3, "end": 6 }],
+      "plant_or_transplant": []
+    },
+    {
+      "id": 3,
+      "plant": "Beets",
+      "start_indoors": [],
+      "direct_sow": [{ "start": 1, "end": 4 }],
+      "plant_or_transplant": []
+    },
+    {
+      "id": 4,
+      "plant": "Broccoli",
+      "start_indoors": [
+        { "start": 0, "end": 1 },
+        { "start": 5, "end": 6 }
+      ],
+      "direct_sow": [],
+      "plant_or_transplant": [
+        { "start": 2, "end": 3 },
+        { "start": 7, "end": 8 }
+      ]
+    },
+    {
+      "id": 5,
+      "plant": "Brussels Sprouts",
+      "start_indoors": [
+        { "start": 1, "end": 2 },
+        { "start": 4, "end": 5 }
+      ],
+      "direct_sow": [],
+      "plant_or_transplant": [
+        { "start": 2, "end": 3 },
+        { "start": 6, "end": 7 }
+      ]
+    },
+    {
+      "id": 0,
+      "plant": "Cabbage",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Carrots",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Cauliflower",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Celery",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Swiss Chard",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Collards",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Corn",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Cucumbers",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Eggplant",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Garlic",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Greens",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Kale",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Kohlrabi",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Leeks",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Lettuce",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Melons",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Okra",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Onions",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Peas",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Peppers",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Potatoes",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Pumpkins",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Radishes",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Spinach",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Squash",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Tomatoes",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Turnips",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    },
+    {
+      "id": -1,
+      "plant": "Watermelon",
+      "start_indoors": [{ "start": 0, "end": 1 }],
+      "direct_sow": [],
+      "plant_or_transplant": [{ "start": 2, "end": 3 }]
+    }
+  ]
+}
